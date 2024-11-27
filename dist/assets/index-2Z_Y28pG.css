@@ -1,0 +1,1 @@
+.square{height:80px;width:80px;border-style:solid;border-color:#000}.board{height:fit-content;width:fit-content;display:grid;grid-template-columns:repeat(3,1fr);grid-gap:1px;margin-left:auto;margin-right:auto;margin-top:200px}.stat{font-family:Courier New,Courier,monospace;font-size:larger;margin-left:auto;margin-right:auto}body{height:100%;background-color:#96ceb4}
